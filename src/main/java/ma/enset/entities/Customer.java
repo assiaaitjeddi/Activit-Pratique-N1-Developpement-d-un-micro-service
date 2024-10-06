@@ -12,6 +12,7 @@ import java.util.List;
 @Entity @AllArgsConstructor @NoArgsConstructor @Builder
 public class Customer {
     @Id
+    git add .
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
