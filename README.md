@@ -1,4 +1,4 @@
-<h1>Activité Pratique N°1 - Développement d'un Microservice</h1>
+<h1>Développement d'un Microservice</h1>
 
 <p>Cette activité consiste à développer un microservice Spring Boot avec des APIs RESTful pour gérer des comptes en utilisant Spring Data JPA et une base de données H2 en mémoire.</p>
 
